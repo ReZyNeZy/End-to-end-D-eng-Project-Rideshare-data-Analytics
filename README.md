@@ -6,6 +6,11 @@ End to End Data Engineering Project (Rideshare Data)
 This project utelizes sample data provided by the city of New York to create a data engineering project that, given a real world application,
   would be satisfactory to present to a pannel of managers to effectively convey company metrics. Utelizing services such as Jupyter Notebook, GCS, Mage-Ai, and Looker Studio, one can convert a large set of data into easy to read and important information pertaining to sales, traffic, geographical areas of success for the buisness, ect... within a rideshare company(Uber, lyft, taxi services).
 
+  ## Challenges
+
+This project was particularly challenging due to the memory constraints of Google Cloud's Virtual Machine services. The Virtual Machine was simply too small to allocate enough memory during the data transformation phase to achieve the desired output. Therefore, chunking the data was required in order to complete the project. In the future I would like to fix the issue with data chunking so that all the data may be made easily accessable.
+
+
 ### Technologies Used
 
 
@@ -23,11 +28,8 @@ This project utelizes sample data provided by the city of New York to create a d
 4. Looker Studio
 
 Pipeline Tool - https://www.mage.ai/
+Contribute to Pipeline Tool Project - https://github.com/mage-ai/mage-ai
 
-
-## Challenges
-
-This project was particularly challenging due to the memory constraints of Google Cloud's Virtual Machine services. The Virtual Machine was simply too small to allocate enough memory during the data transformation phase to achieve the desired output. Therefore, chunking the data was required in order to complete the project. In the future I would like to fix the issue with data chunking so that all the data may be made easily accessable.
 
 ## Installation and Running
 
