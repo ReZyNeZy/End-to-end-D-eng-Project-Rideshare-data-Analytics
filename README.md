@@ -33,6 +33,7 @@ TLC Trip Record Data for the Yellow and Green Taxi service in New York City, New
 Internal Link to Dataset- https://github.com/ReZyNeZy/End-to-end-D-eng-Project-Rideshare-data-Analytics/blob/main/data/uber_data.csv
 
 External Links to Data from NYC Government - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+</br>
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Model
