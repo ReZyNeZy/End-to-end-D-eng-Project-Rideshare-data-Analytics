@@ -9,6 +9,7 @@ This project utelizes sample data provided by the city of New York to create a d
 ### Technologies Used
 
 
+
 <ul>
   <li>Google Big Query</li>
   <li>SQL</li>
