@@ -22,8 +22,10 @@ This project utelizes sample data provided by the city of New York to create a d
 3. Virtual Machine Instance
 4. Looker Studio
 
+Pipeline Tool - https://www.mage.ai/
 
-### Challenges
+
+## Challenges
 
 This project was particularly challenging due to the memory constraints of Google Cloud's Virtual Machine services. The Virtual Machine was simply too small to allocate enough memory during the data transformation phase to achieve the desired output. Therefore, chunking the data was required in order to complete the project. In the future I would like to fix the issue with data chunking so that all the data may be made easily accessable.
 
