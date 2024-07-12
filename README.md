@@ -11,13 +11,9 @@ This project utelizes sample data provided by the city of New York to create a d
 This project was particularly challenging due to the memory constraints of Google Cloud's Virtual Machine services. The Virtual Machine was simply too small to allocate enough memory during the data transformation phase to achieve the desired output. Therefore, chunking the data was required in order to complete the project. In the future I would like to fix the issue with data chunking so that all the data may be made easily accessable.
 
 
-### Technologies Used
-
-
-
+## Technologies Used
 
 - Programming Language- Python 3 and BigQuery(Google SQL)
-
 
 
 ### Google Cloud Services
@@ -30,6 +26,18 @@ This project was particularly challenging due to the memory constraints of Googl
 Pipeline Tool - https://www.mage.ai/
 Contribute to Pipeline Tool Project - https://github.com/mage-ai/mage-ai
 
+## Dataset Info
+
+TLC Trip Record Data for the Yellow and Green Taxi service in New York City, New York, United States. Captures pickup/dropoff rates, fare amounts, pickup/dropoff locations, different rates, different fare types, and passanger count data. 
+
+Internal Link to Dataset- https://github.com/ReZyNeZy/End-to-end-D-eng-Project-Rideshare-data-Analytics/blob/main/data/uber_data.csv
+
+External Links to Data from NYC Government - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+## Model
+
+![image](https://github.com/ReZyNeZy/End-to-end-D-eng-Project-Rideshare-data-Analytics/blob/main/TravelDataModel.drawio)
 
 ## Installation and Running
 
