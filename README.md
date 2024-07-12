@@ -11,14 +11,16 @@ This project utelizes sample data provided by the city of New York to create a d
 
 
 
-- Programming Language- Python 3
+- Programming Language- Python 3 and BigQuery(Google SQL)
 
 
-Google Cloud Services
+
+### Google Cloud Services
   
- <ul>
-   
- </ul>
+1. BigQuery
+2. Cloud Storage
+3. Virtual Machine Instance
+4. Looker Studio
 
 
 ### Challenges
@@ -31,6 +33,6 @@ To install this project, you would need to have access to the Google Cloud Servi
 
 ## Credits
 All Credits to Darshil Parmar of "Data with Darshil" for providing resources as a guide for this project.
-<ul>
-  <li><a href="https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project">Github</a></li>
-</ul>
+
+- <a href="https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project">Github</a></li>
+
