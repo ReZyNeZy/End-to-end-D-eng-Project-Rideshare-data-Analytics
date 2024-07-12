@@ -34,5 +34,7 @@ To install this project, you would need to have access to the Google Cloud Servi
 ## Credits
 All Credits to Darshil Parmar of "Data with Darshil" for providing resources as a guide for this project.
 
-- <a href="https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project">Github</a></li>
+- <a href="https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project">Github</a>
+
+
 
