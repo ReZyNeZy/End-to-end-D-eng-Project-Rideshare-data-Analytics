@@ -39,9 +39,6 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 
 ![image](https://github.com/ReZyNeZy/End-to-end-D-eng-Project-Rideshare-data-Analytics/blob/main/TravelDataModel.png)
 
-## Installation and Running
-
-To install this project, you would need to have access to the Google Cloud Services. GCS allows for up to 300 dollars of usage for 3 months until one must begin to pay for their services. The reccomeded VM environment is E with high memory profiling. This is to compensate for the mage services handling of the large dataset as previously mentioned. Once a proper 
 
 ## Credits
 All Credits to Darshil Parmar of "Data with Darshil" for providing resources as a guide for this project.
