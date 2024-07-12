@@ -37,7 +37,7 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 
 ## Model
 
-[![](https://github.com/ReZyNeZy/End-to-end-D-eng-Project-Rideshare-data-Analytics/blob/main/data_model.pdf)
+![](https://github.com/ReZyNeZy/End-to-end-D-eng-Project-Rideshare-data-Analytics/blob/main/data_model.pdf)
 
 ## Installation and Running
 
