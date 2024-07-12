@@ -10,14 +10,16 @@ This project utelizes sample data provided by the city of New York to create a d
 
 
 
-<ul>
-  <li>Google Big Query</li>
-  <li>SQL</li>
-  <li>Python 3</li>
-  <li>Mage-Ai</li>
-  <li>Jupyter Notebooks</li>
-  <li>Google Cloud Services</li>
-</ul>
+
+- Programming Language- Python 3
+
+
+Google Cloud Services
+  
+ <ul>
+   
+ </ul>
+
 
 ### Challenges
 
